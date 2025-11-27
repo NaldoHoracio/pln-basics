@@ -19,10 +19,7 @@ Repositório voltado ao estudo de técnicas de Processamento de Linguagem Natura
 ## 📂 Estrutura do repositório
 - `data/` → Base de dados (corpus)
 - `praticaX-pln/` → Práticas em processamento de lingaugem natural, onde X é a prática
-- `MNIST_in_Keras` → Prática com Keras usando imagens
-- `NLP_with_NLTK_and_Spacy` → Prática com biblioteca Spacy
 - `pln-llm-classX` → Notebooks jupyter com práticas, onde X é a pratica
-- `Postagging` → Prática com Tagging Textual usando Spacy 
 
 ---
 
