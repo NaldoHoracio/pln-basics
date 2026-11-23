@@ -1,0 +1,14 @@
+# === SO ===
+.desktop.ini
+
+# === Folders ===
+data/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+build/
+
+venv/
+.venv/
+env/
